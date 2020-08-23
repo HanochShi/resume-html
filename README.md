@@ -14,6 +14,12 @@
 
 
 
+#### 预览：
+
+![](https://raw.githubusercontent.com/HanochShi/resume-html/master/preview.png)
+
+
+
 ------------------------
 
 
